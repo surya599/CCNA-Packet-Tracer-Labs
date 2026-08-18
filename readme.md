@@ -427,3 +427,4 @@ After completing this lab:
 **Lab Topic:** NTP Configuration, Stratum, Authentication & Time Synchronization
 **Platform:** Cisco Packet Tracer
 **Routers:** Cisco 2911
+
